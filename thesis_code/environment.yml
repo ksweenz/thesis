@@ -1,0 +1,17 @@
+name: thesis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - nltk
+  - pandas
+  - numpy
+  - wordcloud
+  - pyLDAvis
+  - tqdm
+  - black
+  - flake8
+  - pylint
+  - gensim
+  - spacy
