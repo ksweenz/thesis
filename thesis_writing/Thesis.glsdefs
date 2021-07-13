@@ -1,0 +1,60 @@
+\ifglsentryexists{lda}{}%
+{%
+\gls@defglossaryentry{lda}%
+{%
+name={LDA},%
+sort={LDA},%
+type={acronym},%
+first={Latent Dirichlet Allocation\glsspace (LDA)},%
+firstplural={Latent Dirichlet Allocation\acrpluralsuffix \glsspace (LDA\acrpluralsuffix )},%
+text={LDA},%
+plural={LDA\acrpluralsuffix },%
+description={Latent Dirichlet Allocation},%
+descriptionplural={Latent Dirichlet Allocation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Latent Dirichlet Allocation},%
+longplural={Latent Dirichlet Allocations},%
+short={LDA},%
+shortplural={LDAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{nlp}{}%
+{%
+\gls@defglossaryentry{nlp}%
+{%
+name={NLP},%
+sort={NLP},%
+type={acronym},%
+first={Natural Language Processing\glsspace (NLP)},%
+firstplural={Natural Language Processing\acrpluralsuffix \glsspace (NLP\acrpluralsuffix )},%
+text={NLP},%
+plural={NLP\acrpluralsuffix },%
+description={Natural Language Processing},%
+descriptionplural={Natural Language Processing\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Natural Language Processing},%
+longplural={Natural Language Processings},%
+short={NLP},%
+shortplural={NLPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
